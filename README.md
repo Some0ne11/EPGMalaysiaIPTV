@@ -7,11 +7,7 @@ This repository provides a reliable, auto-updating Electronic Program Guide (EPG
 To use this EPG in your IPTV player, copy the link below. 
 
 **Use this URL:**
-> `https://cdn.jsdelivr.net/gh/Some0ne11/EPGMalaysiaIPTV@main/epg.xml`
-
-⚠️ **Important Note:** Do **not** use the `raw.githubusercontent.com` link. GitHub strictly limits raw file downloads. If too many users refresh at the same time, GitHub will block the connection (Error 503). The `jsdelivr` link above routes through a global CDN designed for high traffic and will not get blocked.
-
----
+> `https://raw.githubusercontent.com/Some0ne11/EPGMalaysiaIPTV/refs/heads/main/epg.xml`
 
 ## ⚙️ How to Configure in Your IPTV Player
 
