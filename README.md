@@ -20,22 +20,100 @@ To make sure your TV guide populates correctly, the `tvg-id` tag inside your `.m
 <details>
 <summary><b>Click to expand/collapse the full channel list</b></summary>
 
-| Channel Name | XML `tvg-id` |
-| :--- | :--- |
-| TV1 | `TV1.my` |
-| TV2 | `TV2.my` |
-| TV3 | `TV3.my` |
-| NTV7 | `NTV7.my` |
-| 8TV | `8TV.my` |
-| TV9 | `TV9.my` |
-| TV Alhijrah | `TVAlhijrah.my` |
-| Astro Ria | `AstroRia.my` |
-| Astro Prima | `AstroPrima.my` |
-| Astro Arena | `AstroArena.my` |
-| Astro Awani | `AstroAwani.my` |
-| RTM Sports | `RTMSports.my` |
-| Awesome TV | `AwesomeTV.my` |
-| Suke TV | `SukeTV.my` |
+<table>
+  <thead>
+    <tr>
+      <th>Channel Name</th>
+      <th>XML <code>tvg-id</code></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Inspirasi</td><td><code>Inspirasi</code></td></tr>
+    <tr><td>Sensasi</td><td><code>Sensasi</code></td></tr>
+    <tr><td>DEGUP</td><td><code>DEGUP</code></td></tr>
+    <tr><td>TV1</td><td><code>TV1</code></td></tr>
+    <tr><td>TV2</td><td><code>TV2</code></td></tr>
+    <tr><td>TV3</td><td><code>TV3</code></td></tr>
+    <tr><td>Didik TV KPM</td><td><code>DidikTVKPM</code></td></tr>
+    <tr><td>8TV</td><td><code>8TV</code></td></tr>
+    <tr><td>TV9</td><td><code>TV9</code></td></tr>
+    <tr><td>Salam HD</td><td><code>Salam</code></td></tr>
+    <tr><td>TV AlHijrah HD</td><td><code>AlHijrah</code></td></tr>
+    <tr><td>SIAR</td><td><code>SIAR</code></td></tr>
+    <tr><td>TV Sarawak</td><td><code>TVSarawak</code></td></tr>
+    <tr><td>Dunia Sinema HD</td><td><code>DuniaSinema</code></td></tr>
+    <tr><td>PESONA</td><td><code>PESONA</code></td></tr>
+    <tr><td>tvN Movies HD</td><td><code>tvNMovies</code></td></tr>
+    <tr><td>tvN HD</td><td><code>tvN</code></td></tr>
+    <tr><td>TVB Jade</td><td><code>TVBJade</code></td></tr>
+    <tr><td>CCTV4</td><td><code>CCTV4</code></td></tr>
+    <tr><td>Phoenix Hong Kong Channel</td><td><code>PhoenixChineseChannel</code></td></tr>
+    <tr><td>SETI</td><td><code>SETI</code></td></tr>
+    <tr><td>Celestial Movies</td><td><code>CelestialMovies</code></td></tr>
+    <tr><td>Celestial Classic Movies</td><td><code>CelestialClassicMovies</code></td></tr>
+    <tr><td>Zee Thirai</td><td><code>ZeeThirai</code></td></tr>
+    <tr><td>Sony YAY!</td><td><code>SonyYAY</code></td></tr>
+    <tr><td>Zee Cinema HD</td><td><code>ZeeCinema</code></td></tr>
+    <tr><td>HBO</td><td><code>HBO</code></td></tr>
+    <tr><td>HBO Hits</td><td><code>HBOHits</code></td></tr>
+    <tr><td>HBO Family</td><td><code>HBOFamily</code></td></tr>
+    <tr><td>Cinemax</td><td><code>Cinemax</code></td></tr>
+    <tr><td>HITS Movies</td><td><code>HITSMovies</code></td></tr>
+    <tr><td>Warner TV HD</td><td><code>WarnerTV</code></td></tr>
+    <tr><td>HITS NOW</td><td><code>HITSNow</code></td></tr>
+    <tr><td>AXN</td><td><code>AXN</code></td></tr>
+    <tr><td>HITS</td><td><code>HITS</code></td></tr>
+    <tr><td>K Plus</td><td><code>K-Plus</code></td></tr>
+    <tr><td>Animax</td><td><code>Animax</code></td></tr>
+    <tr><td>ROCK Entertainment HD</td><td><code>ROCKEntertainment</code></td></tr>
+    <tr><td>Rock Action HD</td><td><code>RockAction</code></td></tr>
+    <tr><td>BBC Earth HD</td><td><code>BBCEarth</code></td></tr>
+    <tr><td>Love Nature HD</td><td><code>LoveNature</code></td></tr>
+    <tr><td>HGTV</td><td><code>HGTV</code></td></tr>
+    <tr><td>BBC Lifestyle HD</td><td><code>BBCLifestyle</code></td></tr>
+    <tr><td>Asian Food Network</td><td><code>AsianFoodNetwork</code></td></tr>
+    <tr><td>DreamWorks HD</td><td><code>DreamWorks</code></td></tr>
+    <tr><td>Moonbug Kids</td><td><code>MoonbugKids</code></td></tr>
+    <tr><td>Nick Jr.</td><td><code>NickJr</code></td></tr>
+    <tr><td>Cbeebies HD</td><td><code>Cbeebies</code></td></tr>
+    <tr><td>Nickelodeon</td><td><code>Nickelodeon</code></td></tr>
+    <tr><td>Cartoon Network</td><td><code>CartoonNetwork</code></td></tr>
+    <tr><td>BBC World News HD</td><td><code>BBCWorldNews</code></td></tr>
+    <tr><td>Al Jazeera</td><td><code>AlJazeera</code></td></tr>
+    <tr><td>CGTN</td><td><code>CGTN</code></td></tr>
+    <tr><td>CNA</td><td><code>CNA</code></td></tr>
+    <tr><td>Euronews</td><td><code>Euronews</code></td></tr>
+    <tr><td>Bernama TV</td><td><code>BernamaTV</code></td></tr>
+    <tr><td>Parlimen Malaysia</td><td><code>ParlimenMalaysia</code></td></tr>
+    <tr><td>ABC Australia</td><td><code>ABCAustralia</code></td></tr>
+    <tr><td>DW</td><td><code>DW</code></td></tr>
+    <tr><td>NHK WORLD JAPAN</td><td><code>NHKWorldJapan</code></td></tr>
+    <tr><td>Unifi Sports 1</td><td><code>UnifiSports1</code></td></tr>
+    <tr><td>SPOTV</td><td><code>SPOTV</code></td></tr>
+    <tr><td>SPOTV2</td><td><code>SPOTV2</code></td></tr>
+    <tr><td>beIN SPORTS 1</td><td><code>beINSports1</code></td></tr>
+    <tr><td>beIN SPORTS 2</td><td><code>beINSports2</code></td></tr>
+    <tr><td>beIN SPORTS 3</td><td><code>beINSports3</code></td></tr>
+    <tr><td>beIN SPORTS 4</td><td><code>beINSports4</code></td></tr>
+    <tr><td>KBS World HD</td><td><code>KBSWorld</code></td></tr>
+    <tr><td>iQIYI HD</td><td><code>iQIYI</code></td></tr>
+    <tr><td>Rock X Stream</td><td><code>RockXStream</code></td></tr>
+    <tr><td>Astro Showcase</td><td><code>AstroShowcase</code></td></tr>
+    <tr><td>Crime &amp; Investigation HD</td><td><code>CrimeInvestigation</code></td></tr>
+    <tr><td>Lifetime HD</td><td><code>Lifetime</code></td></tr>
+    <tr><td>History HD</td><td><code>History</code></td></tr>
+    <tr><td>Discovery Channel HD</td><td><code>DiscoveryChannel</code></td></tr>
+    <tr><td>Discovery Asia HD</td><td><code>DiscoveryAsia</code></td></tr>
+    <tr><td>TLC HD</td><td><code>TLC</code></td></tr>
+    <tr><td>ROLL</td><td><code>ROLL</code></td></tr>
+    <tr><td>Lead</td><td><code>Lead</code></td></tr>
+    <tr><td>JR.</td><td><code>JR.</code></td></tr>
+    <tr><td>Snap</td><td><code>Snap</code></td></tr>
+    <tr><td>Apetito</td><td><code>Apetito</code></td></tr>
+    <tr><td>Aura</td><td><code>Aura</code></td></tr>
+    <tr><td>Fitrah</td><td><code>Fitrah</code></td></tr>
+  </tbody>
+</table>
 
 </details>
 
