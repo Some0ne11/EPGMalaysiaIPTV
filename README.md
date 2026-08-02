@@ -96,6 +96,7 @@ To make sure your TV guide populates correctly, the `tvg-id` tag inside your `.m
     <tr><td>beIN SPORTS 3</td><td><code>beINSports3</code></td></tr>
     <tr><td>beIN SPORTS 4</td><td><code>beINSports4</code></td></tr>
     <tr><td>KBS World HD</td><td><code>KBSWorld</code></td></tr>
+    <tr><td>Daebak</td><td><code>AstroDaebak</code></td></tr>
     <tr><td>iQIYI HD</td><td><code>iQIYI</code></td></tr>
     <tr><td>Rock X Stream</td><td><code>RockXStream</code></td></tr>
     <tr><td>Astro Showcase</td><td><code>AstroShowcase</code></td></tr>
@@ -105,6 +106,33 @@ To make sure your TV guide populates correctly, the `tvg-id` tag inside your `.m
     <tr><td>Discovery Channel HD</td><td><code>DiscoveryChannel</code></td></tr>
     <tr><td>Discovery Asia HD</td><td><code>DiscoveryAsia</code></td></tr>
     <tr><td>TLC HD</td><td><code>TLC</code></td></tr>
+    <tr><td>SUN TV HD</td><td><code>SunTV</code></td></tr>
+    <tr><td>Adithya</td><td><code>Adithya</code></td></tr>
+    <tr><td>Star Vijay HD</td><td><code>StarVijay</code></td></tr>
+    <tr><td>Colors Tamil HD</td><td><code>ColorsTamil</code></td></tr>
+    <tr><td>Z Tamil HD</td><td><code>ZTamil</code></td></tr>
+    <tr><td>Astro Showtime</td><td><code>AstroShowtime</code></td></tr>
+    <tr><td>Astro Awani HD</td><td><code>AstroAwaniHD</code></td></tr>
+    <tr><td>CGTN Documentary</td><td><code>CGTNDocumentary</code></td></tr>
+    <tr><td>Astro Arena</td><td><code>AstroArena</code></td></tr>
+    <tr><td>Astro Arena 2</td><td><code>AstroArena2</code></td></tr>
+    <tr><td>Arena Bola</td><td><code>ArenaBola</code></td></tr>
+    <tr><td>Arena Bola 2</td><td><code>ArenaBola2</code></td></tr>
+    <tr><td>Astro Sports UHD</td><td><code>AstroSportsUHD</code></td></tr>
+    <tr><td>Astro Grandstand</td><td><code>AstroGrandstand</code></td></tr>
+    <tr><td>Astro Premier League</td><td><code>AstroPremierLeague</code></td></tr>
+    <tr><td>Astro Premier League 2</td><td><code>AstroPremierLeague2</code></td></tr>
+    <tr><td>Astro Premier League 3</td><td><code>AstroPremierLeague3</code></td></tr>
+    <tr><td>Astro Football</td><td><code>AstroFootball</code></td></tr>
+    <tr><td>Astro Badminton</td><td><code>AstroBadminton</code></td></tr>
+    <tr><td>Astro Sports Plus</td><td><code>AstroSportsPlus</code></td></tr>
+    <tr><td>W-Sport</td><td><code>W-Sport</code></td></tr>
+    <tr><td>Astro Golf</td><td><code>AstroGolf</code></td></tr>
+    <tr><td>Okey</td><td><code>Okey</code></td></tr>
+    <tr><td>Sukan RTM</td><td><code>SukanRTM</code></td></tr>
+    <tr><td>Berita RTM</td><td><code>BeritaRTM</code></td></tr>
+    <tr><td>Dewan Rakyat</td><td><code>DewanRakyat</code></td></tr>
+    <tr><td>Dewan Negara</td><td><code>DewanNegara</code></td></tr>
     <tr><td>ROLL</td><td><code>ROLL</code></td></tr>
     <tr><td>Lead</td><td><code>Lead</code></td></tr>
     <tr><td>JR.</td><td><code>JR.</code></td></tr>
@@ -114,6 +142,7 @@ To make sure your TV guide populates correctly, the `tvg-id` tag inside your `.m
     <tr><td>Fitrah</td><td><code>Fitrah</code></td></tr>
   </tbody>
 </table>
+
 
 </details>
 
