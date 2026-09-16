@@ -17,9 +17,6 @@ To use this EPG in your IPTV player, copy the link below.
 
 To make sure your TV guide populates correctly, the `tvg-id` tag inside your `.m3u` file **must exactly match** the XML IDs used by this guide.
 
-<details>
-<summary><b>Click to expand/collapse the full channel list</b></summary>
-
 **Total Channels:** 112
 
 <table>
@@ -145,9 +142,6 @@ To make sure your TV guide populates correctly, the `tvg-id` tag inside your `.m
     <tr><td>Fitrah</td><td><code>Fitrah</code></td><td><img src="https://rtm-images.glueapi.io/480x0/fast_channel/FITRAH_CHANNEL.jpg" alt="logo" width="100"></td></tr>
   </tbody>
 </table>
-
-
-</details>
 
 *(Note: If you are looking for a specific channel not listed here, please open an Issue to request it.)*
 
